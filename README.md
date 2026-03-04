@@ -9,8 +9,6 @@ Használata oktató és játékos célokra ideális, de **nem tekinthető kripto
 
 - [Fő funkciók](#-fő-funkciók)
 - [Használat](#-használat)
-- [Tesztelés](#-tesztelés)
-- [Megjegyzések](#-megjegyzések)
 
 ---
 
