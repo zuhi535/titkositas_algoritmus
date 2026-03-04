@@ -1,4 +1,4 @@
-# 🛡️ Komplex Titkosító és Visszafejtő Python Kód
+# Komplex Titkosító és Visszafejtő Python Kód
 
 Ez a Python kód egy karakterenként működő titkosító algoritmust valósít meg **jelszó alapján**, előző karakter hatását is figyelembe véve.  
 Kiváló **oktatási célokra** és **gyakorlati demonstrációra**, de **nem kriptográfiailag biztonságos**.
